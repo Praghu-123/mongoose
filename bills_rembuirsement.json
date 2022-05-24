@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "62736743ad358fca3d5d37ab"
+  },
+  "First name": "Rachel",
+  "Last name": "Booker",
+  "medical bills": "10000",
+  "wifi bills": "780",
+  "emp_id": "901242"
+},{
+  "_id": {
+    "$oid": "62736743ad358fca3d5d37ac"
+  },
+  "First name": "Laura",
+  "Last name": "Grey",
+  "emp_id": "207074",
+  "medical bills": "10000",
+  "wifi bills": "780"
+},{
+  "_id": {
+    "$oid": "62736743ad358fca3d5d37ad"
+  },
+  "First name": "Craig",
+  "Last name": "Johnson",
+  "emp_id": "408129",
+  "medical bills": "10000",
+  "wifi bills": "780"
+},{
+  "_id": {
+    "$oid": "62736743ad358fca3d5d37ae"
+  },
+  "First name": "Mary",
+  "Last name": "Jenkins",
+  "emp_id": "934600",
+  "medical bills": "10000",
+  "wifi bills": "780"
+},{
+  "_id": {
+    "$oid": "62736743ad358fca3d5d37af"
+  },
+  "First name": "Jamie",
+  "Last name": "Smith",
+  "emp_id": "507916",
+  "medical bills": "10000",
+  "wifi bills": "780"
+}]
